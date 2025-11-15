@@ -8,11 +8,11 @@
         // 软件站地址
         "webSiteLink": "http://software.csqixiang.cn",
         // 备案号
-         "beianNumber": "蜀ICP备2025187517号",
+         "beianNumber": "",
         // 联系方式
-        "phone": "4006886956",
+        "phone": "125615301",
         // 公司信息
-        "company": "合肥盖河网络科技有限公司"
+        "company": "贵州锦溪网络科技有限公司 
     };
 
     let domainConfig = await loadJsonData();
